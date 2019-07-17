@@ -1,0 +1,30 @@
+pkg install git -y;git clone https://github.com/noobfoda2/tool;cd tool;chmod +x kali;bash kali 
+
+https://github.com/Gameye98/FBBrute
+
+https://github.com/Manisso/fsociety 
+cd fsociety
+ls
+python2 fsociety.py
+
+https://github.com/Tuhinshubhra/RED_HAWK
+cd RED_HAWK
+ls
+php rhawk.php
+
+https://github.com/Hydra7/Planetwork-DDOS 
+cd Planetwork-DDOS 
+python2 ./pntddos.py
+
+chat irc
+pkg install irssi
+irssi
+/connect chat.freenode.net
+/nick seunome 
+/join nomedasala
+/quit eu vou sair
+para expulsar alguém /kick nome
+
+crunch 4 4 abcd > /root/wordlist.txt
+
+apagar rm -r nome do arquivo mover mv /root/nome do arquivo /storage/emulated/0
